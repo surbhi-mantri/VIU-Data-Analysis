@@ -1,2 +1,2 @@
 # VIU-Data-Analysis
-The objective of this analysis is to provide the Digital Marketing Team at VIU with actionable insights into the performance of advertising campaigns across Facebook, Google, and other digital channels.
+The objective of this analysis is to provide the Digital Marketing Team at VIU with actionable insights into the performance of advertising campaigns across Facebook, Google, and other digital channels. The analysis will involve data cleaning, exploratory data analysis, dashboard development, and performance modelling to identify key trends, optimize daily campaign decisions, improve user acquisition strategies, and enhance overall campaign effectiveness for the OTT platform.
